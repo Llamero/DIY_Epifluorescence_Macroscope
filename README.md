@@ -1,4 +1,4 @@
-# DIY Macroscope and High Power Illuminator
+# DIY Epifluorescent Macroscope and High Power Illuminator
  This is an open-source macroscope design based on the Olympus XLFLUOR 4x/0.28 NA objective.  This macroscope design is fully open-source and is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.  
  
  The development of this scope and illuminator was funded by the following grant: NIH P30EY003176
