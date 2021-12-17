@@ -7,9 +7,9 @@
  ## Macroscope and illuminator specs
 * FOV: 4.7 mm x 4.7 mm
 * Resolution: 1.5 µm 
-* Excitation power @ 474/27 nm - 25 mW/mm^2
-* Excitation power @ 554/23 nm - 8.2 mW/mm^2
-* Excitation power @ 635/18 nm - 2.5 mW/mm^2
+* Excitation power @ 474/27 nm - 620 mW = 36 mW/mm^2
+* Excitation power @ 554/23 nm - 188 mW = 11 mW/mm^2
+* Excitation power @ 635/18 nm - 410 mW = 24 mW/mm^2
 * LED current: 27 amps
 ## How to use the CAD files
 The CAD files can be opened using FreeCAD: https://www.freecadweb.org/downloads.php  Unless otherwise specified, all the part numbers listed in the CAD file are Thorlabs part numbers.
