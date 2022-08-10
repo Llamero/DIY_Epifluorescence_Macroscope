@@ -13,7 +13,7 @@
 * LED current: 27 amps
 ## How to use the CAD files
 The CAD files can be opened using FreeCAD: https://www.freecadweb.org/downloads.php  Unless otherwise specified, all the part numbers listed in the CAD file are Thorlabs part numbers.
- ![](Images/LED%20illuminator%20-%20CAD.png)
+ ![](Images/Macroscope%20-%20CAD.png)
 ## Controlling the LEDs
 The LEDs can be synced to a camera using a MOSFET and MOSFET driver triggered by the camera.  If using a constant voltage power supply, be sure to include a ballast resistor for stable LED intensity. For programmable control of LED intensity and timing, you can also use the following open-source LED driver: https://github.com/Llamero/Four_Channel_MHz_LED_Driver/tree/High_current
  ![](Images/Three%20channel%2027%20amp%20LED%20source%20and%20LED%20driver.jpg)
